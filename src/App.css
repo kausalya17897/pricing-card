@@ -83,10 +83,7 @@ li{
   margin-left: 0px;
   list-style-type:none ;
 }
-.check:before {
-  content: '✓ ';
-  font-weight: 800;
-}
+
 .button{
   width:90%;
   height: 60px;
